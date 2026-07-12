@@ -62,9 +62,12 @@ Built by Leonardo Vasconcellos (UDESC) and Sandro Marcos da Silva (Hannover Info
 
 **Key features:**
 
-- Built a PHP-driven dynamic news system that let the Rotary team publish dated milestone updates — press clippings, cornerstone ceremony, inauguration photos — without touching code, keeping donors and the public informed throughout the campaign.
-- Developed the sponsor acquisition page with a formal donor pitch letter and named recognition on the monument plaque, directly supporting the ~R$120,000 fundraising goal that brought corporate partners (Engepasa, Vega do Sul) and the municipal government on board.
-- Integrated a Macromedia Flash animated banner with a cookie-based repeat-visit flag — an early personalization mechanic that gave the campaign a polished, animated presence while controlling the user experience on return visits.
+<!-- KEY FEATURES -->
+### Key Features
+
+- **Self-service news system** — a dynamic news module that let the Rotary team publish dated milestone updates — press clippings, cornerstone ceremony, inauguration photos — without touching code, keeping donors and the public informed throughout the campaign
+- **Sponsor acquisition page** — a formal donor pitch with named recognition on the monument plaque, directly supporting the ~R$120,000 fundraising goal that brought corporate partners (Engepasa, Vega do Sul) and the municipal government on board
+- **Animated campaign banner** — a Flash banner with a cookie-based repeat-visit flag, an early personalization mechanic that gave the campaign a polished presence while controlling the experience on return visits
 
 The site is a PHP application with shared template functions rendering header, navigation, and footer consistently across pages. The horizontal JavaScript navigation menu used image-based backgrounds and mouseover events for institutional sub-menus.
 
